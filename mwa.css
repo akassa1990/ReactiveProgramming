@@ -1,0 +1,63 @@
+body,
+#result {
+  padding: 15px;
+}
+
+ol {
+  padding: 0 15px;
+}
+
+ol li {
+  padding-bottom: 5px;
+}
+
+input[type="text"] {
+  width: 200px;
+  font-size: 18px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+label {
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #6482a0;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+table{
+  margin: auto;
+}
+
+th {
+  width: 120px;
+  font-size: 22px;
+  padding: 12px;
+  font-weight: bold;
+  background-color: #798baf;
+  border: 1px solid rgb(79, 115, 192);
+  border-radius: 4px;
+  resize: vertical;
+}
+
+
+td {
+  width: 120px;
+  font-size: 16px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  background-color: #e1e2e4;
+}
